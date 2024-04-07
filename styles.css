@@ -38,7 +38,7 @@ body{
 	/* set the font size to 1.1rem	*/
 	font-size: 1.1rem;
 	/* set the font color to #222 (--dk-gray) */
-	color: var(--dk-gray)
+	color: var(--dk-gray);
 	margin: 0;
 	padding: 0;
 }
@@ -123,7 +123,7 @@ p{
 	/* add an indent on the first line of 2rem */
 	text-indent: 2rem;
 	/* center those paragraphs (not the text) on the page */
-	margin: 0auto;
+	margin: 0 auto;
 	padding: 0.5rem;
 }
 
